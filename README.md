@@ -1,6 +1,6 @@
 # 📗 Table of Contents
 
-- 📖 About the Hello World Project
+- [📖 About the Hello World Project] (#about-project)
 - 🛠 Built With
 
   - HTML
@@ -10,12 +10,12 @@
 
 - 🚀 Live Demo
 - 💻 Getting Started
-- Setup
-- Prerequisites
-- Install linters
-- Usage of linters
-- Run tests
-- Deployment
+  - Setup
+  - Prerequisites
+  - Install linters
+  - Usage of linters
+  - Run tests
+  - Deployment
 - 👥 Authors
 - 🔭 Future Features
 - 🤝 Contributing
@@ -23,7 +23,8 @@
 - 🙏 Acknowledgements
 - ❓ FAQ
 - 📝 License
-- 📖 Hello World Project
+
+# 📖 [Hello Microverse Project] <a name="about-project"></a>
 
 ## This is the Hello World project for my Microverse training.
 
