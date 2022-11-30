@@ -26,7 +26,7 @@
 
 # 📖 Hello Microverse Project <a name="about-project"></a>
 
-## This is the Hello World project to teach me how to set up linters, basic HTML and CSS and gitflow in order to write better code.
+**This is the Hello World project to teach me how to set up linters, basic HTML and CSS and gitflow in order to write better code.**
 
 ## 🛠 Built With <a name="built-with"></a>
 
