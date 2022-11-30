@@ -1,4 +1,4 @@
-# 📗 Table of Contents
+# [📗 Table of Contents](#readme-top)
 
 - [📖 About the Hello World Project](#about-project)
 - [🛠 Built With](#built-with)
@@ -51,7 +51,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
--[Live Demo Link] (https://github.com/mertkantaroglu/Hello-world)
+[Live Demo](https://github.com/mertkantaroglu/Hello-world)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
