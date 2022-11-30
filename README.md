@@ -1,7 +1,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Hello World Project] (#about-project)
-- 🛠 Built With
+- [🛠 Built With] (#built-with)
 
   - HTML
   - CSS
@@ -24,18 +24,23 @@
 - ❓ FAQ
 - 📝 License
 
-# 📖 [Hello Microverse Project] <a name="about-project"></a>
+# 📖 Hello Microverse Project <a name="about-project"></a>
 
-## This is the Hello World project for my Microverse training.
+## This is the Hello World project to teach me how to set up linters, basic HTML and CSS and gitflow in order to write better code.
 
-🛠 Built With
-Tech Stack
-Describe the tech stack and include only the relevant sections that apply to your project.
+## 🛠 Built With <a name="built-with"></a>
 
-Client
-Server
-Database
-Key Features
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+  </ul>
+</details>
+
+### Key Features
 
 - [x] Creating gitignore file and use it for node modules
 - [x] Installing linters and using them
@@ -45,7 +50,7 @@ Key Features
 - [x] Opening a pull request
 - [x] Fixing problems
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 🚀 Live Demo
 https://github.com/mertkantaroglu/Hello-world
