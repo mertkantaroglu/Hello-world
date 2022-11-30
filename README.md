@@ -54,7 +54,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo Link] (https://github.com/mertkantaroglu/Hello-world)
+-[Live Demo Link] (https://github.com/mertkantaroglu/Hello-world)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,9 +88,9 @@ Mention all of the collaborators of this project.
 
 ### 👤 **Mert Kantaroglu**
 
-GitHub: [@mertkantaroglu] (https://github.com/mertkantaroglu/)
-Twitter: [@aranelluinwe] (https://twitter.com/aranelluinwe)
-LinkedIn: [mertkantaroglu] (https://www.linkedin.com/in/mert-kantaroglu/)
+- GitHub: [@mertkantaroglu] (https://github.com/mertkantaroglu/)
+- Twitter: [@aranelluinwe] (https://twitter.com/aranelluinwe)
+- LinkedIn: [mertkantaroglu] (https://www.linkedin.com/in/mert-kantaroglu/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
