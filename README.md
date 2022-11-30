@@ -40,7 +40,7 @@
   </ul>
 </details>
 
-### Key Features
+### Key Features <a name="ke-features"></a>
 
 - [x] Creating gitignore file and use it for node modules
 - [x] Installing linters and using them
@@ -52,91 +52,74 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-🚀 Live Demo
-https://github.com/mertkantaroglu/Hello-world
+## 🚀 Live Demo <a name="live-demo"></a>
 
-Live Demo Link
-(back to top)
+[Live Demo Link] (https://github.com/mertkantaroglu/Hello-world)
 
-💻 Getting Started
-Describe how a new developer could make use of your project.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To get a local copy up and running, follow these steps.
+## 💻 Getting Started <a name="getting-started"></a>
 
-Prerequisites
-In order to run this project you need:
+### Prerequisites <a name="prerequisites"></a>
 
-Setup
-Clone this repository to your desired folder:
+In order to run this project you need a Chrome, Safari or Mozilla browser
 
-Install
-Install this project with:
+### Setup <a name="setup"></a>
 
-Usage
-To run the project, execute the following command:
+Clone this repository to your desired folder: https://github.com/mertkantaroglu/Hello-world
 
-Run tests
-To run tests, run the following command:
+### Install <a name="install"></a>
 
-Deployment
-You can deploy this project using:
+Install this project with Bash command
 
-(back to top)
+### Usage <a name="usage"></a>
 
-👥 Authors
+To run the project, execute the following command: Click on Live server option in your IDE
+
+### Run tests
+
+### Deployment
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
 Mention all of the collaborators of this project.
 
-👤 Author1
+### 👤 **Mert Kantaroglu**
 
-GitHub: @mertkantaroglu
-Twitter: @aranelluinwe
-LinkedIn: mertkantaroglu
+GitHub: [@mertkantaroglu] (https://github.com/mertkantaroglu/)
+Twitter: [@aranelluinwe] (https://twitter.com/aranelluinwe)
+LinkedIn: [mertkantaroglu] (https://www.linkedin.com/in/mert-kantaroglu/)
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-🔭 Future Features
-Describe 1 - 3 features you will add to the project.
+## 🔭 Future Features <a name="future-features"></a>
 
-[new_feature_1]
-[new_feature_2]
-[new_feature_3]
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-(back to top)
+## ⭐️ Show your support <a name="show-your-support"></a>
 
-⭐️ Show your support
-Write a message to encourage readers to support your project
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-If you like this project...
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-(back to top)
+I would like to thank for Microverse to provide me learning materials, my peers for helping me out
 
-🙏 Acknowledgments
-Give credit to everyone who inspired your codebase.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-I would like to thank...
+## ❓ FAQ <a name="faq"></a>
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-❓ FAQ
-Add at least 2 questions new developers would ask when they decide to use your project.
+## 📝 License <a name="license"></a>
 
-[Question_1]
-
-[Answer_1]
-[Question_2]
-
-[Answer_2]
-(back to top)
-
-📝 License
 This project is MIT licensed.
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
-
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
