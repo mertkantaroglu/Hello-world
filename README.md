@@ -1,27 +1,29 @@
-📗 Table of Contents
-📖 About the Hello World Project
-🛠 Built With
-HTML
-CSS
-Git
-Node
+# 📗 Table of Contents
 
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install linters
-Usage of linters
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ
-📝 License
-📖 Hello World Project
+- 📖 About the Hello World Project
+- 🛠 Built With
+
+  - HTML
+  - CSS
+  - Git
+  - Node
+
+- 🚀 Live Demo
+- 💻 Getting Started
+- Setup
+- Prerequisites
+- Install linters
+- Usage of linters
+- Run tests
+- Deployment
+- 👥 Authors
+- 🔭 Future Features
+- 🤝 Contributing
+- ⭐️ Show your support
+- 🙏 Acknowledgements
+- ❓ FAQ
+- 📝 License
+- 📖 Hello World Project
 
 ## This is the Hello World project for my Microverse training.
 
