@@ -2,12 +2,6 @@
 
 - [📖 About the Hello World Project](#about-project)
 - [🛠 Built With](#built-with)
-
-  - HTML
-  - CSS
-  - Git
-  - Node
-
 - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -34,10 +28,11 @@
   <ul>
     <li>HTML</li>
     <li>CSS</li>
+    <li>Git</li>
   </ul>
 </details>
 
-### Key Features <a name="ke-features"></a>
+### Key Features <a name="key-features"></a>
 
 - [x] Creating gitignore file and use it for node modules
 - [x] Installing linters and using them
@@ -80,8 +75,6 @@ To run the project, execute the following command: Click on Live server option i
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
-
-Mention all of the collaborators of this project.
 
 ### 👤 **Mert Kantaroglu**
 
