@@ -1,28 +1,25 @@
 # 📗 Table of Contents
 
-- [📖 About the Hello World Project] (#about-project)
-- [🛠 Built With] (#built-with)
+- [📖 About the Hello World Project](#about-project)
+- [🛠 Built With](#built-with)
 
   - HTML
   - CSS
   - Git
   - Node
 
-- 🚀 Live Demo
-- 💻 Getting Started
-  - Setup
-  - Prerequisites
-  - Install linters
-  - Usage of linters
-  - Run tests
-  - Deployment
-- 👥 Authors
-- 🔭 Future Features
-- 🤝 Contributing
-- ⭐️ Show your support
-- 🙏 Acknowledgements
-- ❓ FAQ
-- 📝 License
+- [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [🙏 Acknowledgements](#acknowledgments)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
 # 📖 Hello Microverse Project <a name="about-project"></a>
 
@@ -88,9 +85,9 @@ Mention all of the collaborators of this project.
 
 ### 👤 **Mert Kantaroglu**
 
-- GitHub: [@mertkantaroglu] (https://github.com/mertkantaroglu/)
-- Twitter: [@aranelluinwe] (https://twitter.com/aranelluinwe)
-- LinkedIn: [mertkantaroglu] (https://www.linkedin.com/in/mert-kantaroglu/)
+- GitHub: [@mertkantaroglu](https://github.com/mertkantaroglu/)
+- Twitter: [@aranelluinwe](https://twitter.com/aranelluinwe)
+- LinkedIn: [mertkantaroglu](https://www.linkedin.com/in/mert-kantaroglu/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
